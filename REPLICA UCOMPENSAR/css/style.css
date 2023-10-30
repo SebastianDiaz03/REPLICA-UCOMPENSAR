@@ -418,7 +418,7 @@ padding-bottom: 1rem;
 }
 
 .footer-links h4{
-    font-size: 20px;
+    font-size: 10px;
     color: white;
     margin-bottom: 25px;
     font-weight: 500;
@@ -428,7 +428,7 @@ padding-bottom: 1rem;
 }
 
 .footer-links ul li a{
-    font-size: 18px;
+    font-size: 15px;
     text-decoration: none;
     color: #BBBBBB;
     display: block;
